@@ -25,7 +25,7 @@ public class E02Logger {
             return true;
         }
 
-
+//test
         return false;
     }
 }
